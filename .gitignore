@@ -10,3 +10,21 @@
 
 # NZCO backup ZIPs (already in 01_Admin)
 01_Admin/NZCO_backup_*.zip
+
+# Secrets / credentials
+*.p8
+*.pem
+*.key
+*.crt
+*.p12
+*.keystore
+*.jks
+*.env
+.env.*
+
+# Large media (avoid tracking new huge files)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.iso
