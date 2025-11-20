@@ -1,0 +1,12 @@
+# macOS noise
+.DS_Store
+
+# Heavy archives / installers
+*.zip
+*.dmg
+
+# Email exports
+*.eml
+
+# NZCO backup ZIPs (already in 01_Admin)
+01_Admin/NZCO_backup_*.zip
